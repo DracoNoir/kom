@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+# Kom Gazetteer
 
-You can use the [editor on GitHub](https://github.com/DracoNoir/kom/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Kom is a world of fantasy, although science also exists.  The gods are real—but seldom seen—and the supernatural is all around.  But ever since the fall of the Necroteece empire, almost one and a half millennia ago, magic has been outlawed and its use has been punishable by death.  Despite this restriction, simple magics, especially the healing arts, are still practiced in the shadows by those brave enough to risk it—for the right price.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DracoNoir/kom/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The world has reached the pinnacle of tech level (TL) 4, equivalent to the mid-1700s in our world, and stalled due to fossil fuels (i.e. coal, natural gas, and petroleum) having never been discovered (or existed, for that matter).  Society and culture has progressed somewhat, resulting in something closer to the mid-1800s of our world, but the complete absence of these relatively cheap and dense energy sources has retarded the development of machinery and manufacturing techniques.  The industrial revolution has not occurred, and will never happen.  Despite that, a small number of more advanced technologies have managed to be discovered, making the world TL 4+1 or TL 4+2 in some areas.
