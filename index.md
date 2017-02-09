@@ -12,6 +12,7 @@ _Nestled in the shadow of the mountain from which it gets its name, the peaceful
 ### Characters
 
 The following rules apply to building your characters:
+
 * Starting point value is 150
   * No more than 75 points in disadvantages
   * Up to 5 perks
@@ -49,7 +50,7 @@ The following rules apply to building your characters:
 
 The following resources are available to help create characters and learn about the setting.
 
-* [templates/](Character Templates)
-* [locations/](Locations)
-* [ages/](Ages of Kom)
-* [deities/](Deities)
+* [Character Templates](templates/)
+* [Locations](locations/)
+* [Ages of Kom](ages/)
+* [Deities](deities/)
