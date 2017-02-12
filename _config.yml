@@ -1,3 +1,14 @@
-theme: jekyll-theme-midnight
-show_header: false
-show_title: false
+# Site settings
+title: Kom Gazetteer
+description: > # this means to ignore newlines until "baseurl:"
+  World of Kom Gazetteer (for GURPS Fourth Edition)
+copyright: 2017 Jeffrey J. Bryan
+baseurl: "/kom"
+url: "https://draconoir.github.io"
+github_username: draconoir
+
+# Build settings
+markdown: kramdown
+
+# Jekyll theme adapted from comSysto's Automatic Jekyll Breadcrumb for GitHub Pages
+# at https://github.com/comsysto/jekyll-breadcrumb-for-github-pages
