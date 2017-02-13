@@ -4,7 +4,7 @@ breadcrumb: Kaneeshwa
 title: Kaneeshwa
 ---
 
-<points>20 points</points>
+<points>20</points>
 
 At the northeastern corner of Tarrsia, a narrow stretch of land extends deep into the ocean where it meets an unending archipelago.  The people who live around these lands—indeed, most who spend their lives on any large body of water—are known as the Kaneeshwa.
 

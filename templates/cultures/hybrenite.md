@@ -4,7 +4,7 @@ breadcrumb: Hybrenite
 title: Hybrenite
 ---
 
-<points>20 points</points>
+<points>20</points>
 
 A derogatory term, hybrenite is used to describe anyone raised in a hybrea, an ancient word for untamed land.  There are several major hybrea in the world, including the Xentei forest west of Taki, the Athenite realms of Mount Venseenai and the Durin mountains, and the wintery badlands north of the Delusian province.
 

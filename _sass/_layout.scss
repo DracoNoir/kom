@@ -276,3 +276,7 @@ points {
   font-style: italic;
   text-align: right;
 }
+
+points::after {
+  content: " points";
+}

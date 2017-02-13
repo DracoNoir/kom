@@ -4,7 +4,7 @@ breadcrumb: Tarrsian
 title: Tarrsian
 ---
 
-<points>15 points</points>
+<points>15</points>
 
 The empire of Tarrsia stretches far and wide, including the capital nation of Tarrs and all of the member kingdoms it rules.  Most characters are subjects of the empire, or simply Tarrsian, and those who are full-fledged citizens—status 0 or higher—are educated to be contributing members.
 

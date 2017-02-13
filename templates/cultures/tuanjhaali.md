@@ -4,7 +4,7 @@ breadcrumb: T'uanjhaali
 title: T'uanjhaali
 ---
 
-<points>15 points</points>
+<points>15</points>
 
 Between the Durin and Takian mountain ranges lies a vast desert, a hideous scar left over from the war which defeated the Necroteece Empire.  The humans that sprang from this wasteland are called the T'uanjhaal, while all those who live there are T'uanjhaali.
 
