@@ -7,7 +7,7 @@ title: Campaign
 
 _Nestled in the shadow of the mountain from which it gets its name, the peaceful and prosperous kingdom of Taki lies at the cusp of a cataclysm that will change the world of Kom forever._
 
-### Characters
+## Characters
 
 The following general rules apply to building your characters:
 
