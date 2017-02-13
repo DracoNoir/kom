@@ -40,5 +40,5 @@ The following general rules apply to building your characters:
       * Revulsion<sup>†</sup> (with appropriate subject)
     * _Others might be available with a good story and_ Unusual Background [10] _to support it_
   * Most modifiers and limitations don't make sense, but some limitations could be used to justify an otherwise unavailable advantage/disadvantage
-  * [Racial templates](../templates/races/) supercede these restrictions
+  * [Racial templates](../templates/races/) supersede these restrictions
 * All regular (non-cinematic) skills are available if appropriate for the character's TL
