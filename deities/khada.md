@@ -1,7 +1,7 @@
 ---
 layout: page
-breadcrumb: Sypaetyrnyumenius
-title: Sypaetyrnyumenius
+breadcrumb: Khada
+title: Khada
 ---
 
 Aspect | Details
@@ -17,4 +17,3 @@ Weapons | Spear
 Month | Kadara (3)
 
 Created by [T'ere](tere), Khada was tasked with creating the animals that populate the world.
-
