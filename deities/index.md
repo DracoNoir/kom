@@ -39,7 +39,7 @@ The following are the deities of Kom:
 
 [Khada](khada)
 
-[Dagahr](dagahg)
+[Dagahr](dagahr)
 
 [Kel](kel)
 
