@@ -6,7 +6,7 @@ title: Ogira
 
 <points>100</points>
 
-A borderline monstrous race, the Ogira are a barbarous people hailing from the uncharted lands north of the Delusian Province.
+A borderline monstrous race, the Ogira are a barbarous people hailing from the uncharted lands north of the [Delusian Province](../../../places/delusian).
 
 **Attributes:**  ST 20 (Size Limitation, -10%) [90]; DX 10 [0]; IQ 9 [-20]; HT 12 [20]
 

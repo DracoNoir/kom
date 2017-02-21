@@ -4,7 +4,7 @@ breadcrumb: Bognil
 title: Bognil
 ---
 
-No one knows how they came to be, but the Bognil appeared during the Third Age, emerging from the mountains north of the Delusian Province.
+No one knows how they came to be, but the Bognil appeared during the Third Age, emerging from the mountains north of the [Delusian Province](../../../places/delusian).
 
 The Bognil have a complex society that is composed of young, undifferentiated bognil and several specialized "breeds" of adult bognil.  Each adult type fills a particular role in society.
 

@@ -6,7 +6,7 @@ title: Athenite
 
 <points>35</points>
 
-As the human races covered the land, some, seeking the wisdom and strength of Athea, climbed the mountains and found homes deep within them.  Over time, they adapted to their environment, living in tight quarters without natural light, and evolved into the race known as the Athenite.
+As the human races covered the land, some, seeking the wisdom and strength of [Athea](../../../deities/athea), climbed the mountains and found homes deep within them.  Over time, they adapted to their environment, living in tight quarters without natural light, and evolved into the race known as the Athenite.
 
 After generations of living mostly underground, Athenites developed a dominant form of genetic albinism.  All Athenites have pale-pink skin, pink-white hair (limb, pubic, and head), and ice-blue eyes.  All Athenites have limb, pubic, and head hair but never facial hair—baldness (except from shaving) does not occur.  Head hear is always straight.
 

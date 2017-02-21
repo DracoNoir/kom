@@ -4,7 +4,7 @@ breadcrumb: Humans
 title: Humans
 ---
 
-At the end of the Second Age, after being cleaved from T'ere, Aetere created the Human race.  Originally a homogenous race, over the ages humanity evolved into five (known) distinct sub-races.  To this day they remain biologically compatible, but, with the exception of the lingering [Dragonkin](#dragonkin) and [Necroteece](#necroteece) bloodlines, only one kind breeds true in any human offspring.
+At the end of the Second Age, after being cleaved from [T'ere](../../../deities/tere), [Aetere](../../../deities/aetere) created the Human race.  Originally a homogenous race, over the ages humanity evolved into five (known) distinct sub-races.  To this day they remain biologically compatible, but, with the exception of the lingering [Dragonkin](#dragonkin) and [Necroteece](#necroteece) bloodlines, only one kind breeds true in any human offspring.
 
 [Itarian](itarian)
 
@@ -49,7 +49,7 @@ In addition to the bloodline-specific traits, all Dragonkin have both _Social Re
 ### Necroteece
 <points>+15</points>
 
-Millennia ago, a group of humans sought a way to bring themselves closer to Nekere, the goddess they worshipped.  After decades of experimenting with strong magics and selective breeding, a new breed of human was born.  Dubbed the Necroteece, this breed retained many of the traits of its human ancestors while gaining those of the creatures of Nekere.  More mentally adept than their human cousins, the Necroteece had a natural understanding of the nature of magic and excelled at all of the magical arts.
+Millennia ago, a group of humans sought a way to bring themselves closer to [Nekere](../../../deities/nekere), the goddess they worshipped.  After decades of experimenting with strong magics and selective breeding, a new breed of human was born.  Dubbed the Necroteece, this breed retained many of the traits of its human ancestors while gaining those of the creatures of [Nekere](../../../deities/nekere).  More mentally adept than their human cousins, the Necroteece had a natural understanding of the nature of magic and excelled at all of the magical arts.
 
 As a descendent of a Necroteece, select from one of the following bloodlines:
 

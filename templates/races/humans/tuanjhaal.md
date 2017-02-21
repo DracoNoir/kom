@@ -6,7 +6,7 @@ title: T'uanjhaal
 
 <points>30</points>
 
-When the world was cracked and the Necroteece empire fell, the land between the Durin and Takian mountain ranges died.  But not all humans fled from this desert wasteland.  Those that stayed—and survived—evolved into the race known as the T'uanjhaal.
+When the world was cracked and the Necroteece empire fell, the land between the [Durin](../../../places/durin) and [Takian](../../../places/taki) mountain ranges died.  But not all humans fled from this [desert wasteland](../../../places/wasteland).  Those that stayed—and survived—evolved into the race known as the T'uanjhaal.
 
 The T'uanjhaal have the darkest features of the human races.  Their skin is medium to dark brown (almost black), their hair is dark brown or black, and their eyes are dark brown or black.  They have thick hair—baldness is unheard of—that ranges from wavy to curly (loose or tight).
 

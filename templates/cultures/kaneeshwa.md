@@ -6,7 +6,7 @@ title: Kaneeshwa
 
 <points>20</points>
 
-At the northeastern corner of Tarrsia, a narrow stretch of land extends deep into the ocean where it meets an unending archipelago.  The people who live around these lands—indeed, most who spend their lives on any large body of water—are known as the Kaneeshwa.
+At the northeastern corner of [Tarrsia](../../places/tarrsia), a narrow stretch of land called the [Kaneeshwa Peninsula](../../places/kaneeshwa) extends deep into the ocean where it meets an unending archipelago.  The people who live around these lands—indeed, most who spend their lives on any large body of water—are known as the known as the Kaneeshwa.
 
 **Disadvantages:**  Social Stigma (Pirate; -1 reaction rolls) [-5]
 
@@ -16,4 +16,4 @@ At the northeastern corner of Tarrsia, a narrow stretch of land extends deep int
 
 **Background Skills:**  A total of 7 points in Aquabatics or Net, both (H) DX-2 [1], DX-1 [2], or DX [4]; Carpentry or Games<sup>†</sup>, both (E) IQ [1], IQ+1 [2], or IQ+2 [4]; Cartography/TL4 or Smuggling, both (A) IQ-1 [1], IQ [2], or IQ+1 [4]; Engineer/TL4 (Ships) (H) IQ-2 [1], IQ-1 [2], or IQ [4]; Carousing or Singing, both (E) HT [1], HT+1 [2], or HT+2 [4]
 
-*Specialties only available to Kaneesh
+*Specialties only available to [Kaneesh](../races/humans/kaneesh)

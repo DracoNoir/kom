@@ -6,7 +6,7 @@ title: Xentei
 
 <points>30</points>
 
-As the power of the Necroteece grew in the Third Age, so too did their use of magic and their discovery of technologies.  Viewing these advancements as unnatural, a group of humans, followers of Kyurta and Khada, broke from society and migrated to the wildernesses in an effort to return to the ways of nature before the appearance of the Dragon Lords.  Eschewing all but the most basic technologies, eventually these people evolved into their own race, the Xentei.
+As the power of the Necroteece grew in the Third Age, so too did their use of magic and their discovery of technologies.  Viewing these advancements as unnatural, a group of humans, followers of [Kyurta](../../../deities/kyurta) and [Khada](../../../deities/khada), broke from society and migrated to the wildernesses in an effort to return to the ways of nature before the appearance of the Dragon Lords.  Eschewing all but the most basic technologies, eventually these people evolved into their own race, the Xentei.
 
 The appearance of Xentei depends on which god of nature they are most closely aligned with.
 
@@ -27,7 +27,7 @@ All Xentei must select one of the following exclusive lenses, indicating the god
 ### Child of Kyurta
 <points>+25</points>
 
-The Children of Kyurta are aligned with the goddess of plants and she has bestowed upon them a gift of attunement with plants.
+_The Children of Kyurta_ are aligned with [Kyurta](../../../deities/kyurta), the goddess of plants, and she has bestowed upon them a gift of attunement with plants.
 
 These Xentei have olive complexions with a healthy, greenish hue, medium brown hair, and green eyes.  They have small frames and tend to be both slight and short.
 
@@ -38,7 +38,7 @@ These Xentei have olive complexions with a healthy, greenish hue, medium brown h
 ### Child of Khada
 <points>+25</points>
 
-The Children of Khada are aligned with the god of animals and he has bestowed upon them a gift of attunement with animals.
+_The Children of Khada_ are aligned with [Khada](../../../deities/khada), the god of animals, and he has bestowed upon them a gift of attunement with animals.
 
 These Xentei have ruddy skin, dark brown to black hair, and red eyes.  They have large frames and tend to be both muscular and tall.
 
@@ -49,7 +49,7 @@ These Xentei have ruddy skin, dark brown to black hair, and red eyes.  They have
 ### The Forsaken
 <points>+25</points>
 
-The Forsaken are neither aligned with Kyurta nor Khada—they have forsaken nature.  Despite that, they are still gifted with an attunement to humans and other sapient (IQ 6+) beings.
+_The Forsaken_ are neither aligned with [Kyurta](../../../deities/kyurta) nor [Khada](../../../deities/khada)—they have forsaken nature.  Despite that, they are still gifted with an attunement to humans and other sapient (IQ 6+) beings.
 
 These Xentei are have pale skin, strawberry blonde hair, and silver-grey eyes.  They have average frames for their size.
 

@@ -6,7 +6,7 @@ title: Kaneesh
 
 <points>40</points>
 
-During the Second Age, the new race of humans spread far and wide across the lands.  Some of those ventured as far north as the Kaneeshwa peninsula, a long, narrow stretch of land extending out from the northeastern coast of what is modern day Tarrsia, and settled throughout the vast archipelago that lay beyond it, stretching far out across the ocean.  After many generations this population adapted to their new homes, growing accustomed to living near or on the sea and smaller in the process (due to island dwarfism), and evolved into the race known as the Kaneesh.
+During the Second Age, the new race of humans spread far and wide across the lands.  Some of those ventured as far north as the [Kaneeshwa peninsula](../../../places/kaneeshwa), a long, narrow stretch of land extending out from the northeastern coast of what is modern day [Tarrsia](../../../places/tarrsia), and settled throughout the vast archipelago that lay beyond it, stretching far out across the ocean.  After many generations this population adapted to their new homes, growing accustomed to living near or on the sea and smaller in the process (due to island dwarfism), and evolved into the race known as the Kaneesh.
 
 Life in and about the water gave the Kaneesh a unique appearance among the humans.  They have olive complexions, which is often bronzed from living and working outdoors.  They have no limb or pubic hair and all adult males have some degree of baldness (usually total).  Men do have facial hair, but it is typically thinner on the sides, resulting in a natural goatee.  What hair they do have is a deep ginger and ranges from wavy to loose curls.  Their eyes are usually blue like the sea, but can be seafoam blue-green.
 

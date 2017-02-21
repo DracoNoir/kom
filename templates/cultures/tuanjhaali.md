@@ -6,11 +6,11 @@ title: T'uanjhaali
 
 <points>15</points>
 
-Between the Durin and Takian mountain ranges lies a vast desert, a hideous scar left over from the war which defeated the Necroteece Empire.  The humans that sprang from this wasteland are called the T'uanjhaal, while all those who live there are T'uanjhaali.
+Between the [Durin](../../places/durin) and [Takian](../../places/taki) mountain ranges lies a vast desert, a hideous scar left over from the war which defeated the Necroteece Empire.  The humans that sprang from this [wasteland](../../places/wasteland) are called the [T'uanjhaal](../races/humans/tuanjhaal), while all those who live there are T'uanjhaali.
 
 **Disadvantages:**  Odious Personal Habit (Body Odor) [-5]
 
-**Primary Skills:**  Area Knowledge (T’uanjhalli Wasteland) (E) IQ+1 [2]; Survival (Desert) (A) Per+1 [4]
+**Primary Skills:**  Area Knowledge ([T’uanjhalli Wasteland](../../places/wasteland)) (E) IQ+1 [2]; Survival (Desert) (A) Per+1 [4]
 
 **Secondary Skills:**  Autohypnosis or Meditation, both (H) Will-1 [2]; Cloak (A) DX-1 [1]; Hiking (A) HT [2]; Scrounging (E) Per+1 [2]
 
