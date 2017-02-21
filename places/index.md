@@ -6,3 +6,17 @@ title: Places
 ---
 
 The world of Kom has many locations, from its largest nations to the smallest villages within them.  The following provides details about some of these locations.
+
+[Delusian Province](delusian)
+
+[Durin Mountains](durin)
+
+[Kaneeshwa Peninsula](kaneeshwa)
+
+[Taki](taki)
+
+[Tarrsia](tarrsia)
+
+[Mount Venssnai](venseenai)
+
+[T'uanjhaali Wasteland](wasteland)
