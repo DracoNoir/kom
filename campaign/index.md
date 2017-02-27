@@ -7,6 +7,20 @@ title: Campaign
 
 _Nestled in the shadow of the mountain from which it gets its name, the peaceful and prosperous kingdom of [Taki](../places/taki) lies at the cusp of a cataclysm that will change the world of Kom forever._
 
+
+## Books
+
+The campaign uses the following books:
+
+* [GURPS Basic Set](http://www.sjgames.com/gurps/books/Basic/) (may start with simplified rules in [GURPS Lite](http://www.sjgames.com/gurps/lite/) or [GURPS Ultra-Lite](http://www.sjgames.com/gurps/books/ultra-lite/))
+* [GURPS Low Tech](http://www.sjgames.com/gurps/books/low-tech/) plus [Low-Tech Companion 1: Philosophers and Kings](http://www.sjgames.com/gurps/books/low-tech/companion1/), [Low-Tech Companion 2: Weapons and Warriors](http://www.sjgames.com/gurps/books/low-tech/companion2/), [Low-Tech Companion 3: Daily Life and Economics](http://www.sjgames.com/gurps/books/low-tech/companion3/), [GURPS Low-Tech: Instant Armor](http://www.sjgames.com/gurps/books/instantarmor/), and [GURPS Loadouts: Low-Tech Armor](http://www.sjgames.com/gurps/books/loadouts/lowtecharmor/)
+* [GURPS Fantasy](http://www.sjgames.com/gurps/books/Fantasy/) and [GURPS Underground Adventures](http://www.sjgames.com/gurps/books/undergroundadventures/)
+* [GURPS Fantasy-Tech 1: The Edge of Reality](http://www.sjgames.com/gurps/books/fantasy-tech/fantasy-tech1/) (on a case-by-case basis)
+* Other books, especially those concerning magic and advanced combat, will be added later
+
+Where conflicts exist, rules from more specialized books take precedence over general books.
+
+
 ## Characters
 
 The following general rules apply to building your characters:
@@ -19,8 +33,8 @@ The following general rules apply to building your characters:
 * Campaign tech level (TL) is 4
   * Character TL may be lowered to 2 or raised (with approval, and caveats) to 5
   * Starting wealth (at TL4) is $2000 (average level) and may be lowered to $400 (poor level) or raised to $4000 (comfortable level)
-  * Ordinary TL0 – TL4 equipment from _GURPS Basic Set_ and _GURPS Low-Tech_ is available
-  * Amazing equipment from _GURPS Fantasy-Tech 1—The Edge of Reality_ might be available with GM approval (and potential adjustments)
+  * Ordinary TL0 – TL4 equipment is available
+  * Advanced equipment might be available with GM approval (and potential adjustments)
 * Starting status level is 0 and may be lowered to -1 or raised to 1
 * Characters may have up to 2 levels of rank (with approval)
 * Advantages, perks, disadvantages, and quirks
@@ -42,3 +56,34 @@ The following general rules apply to building your characters:
   * Most modifiers and limitations don't make sense, but some limitations could be used to justify an otherwise unavailable advantage/disadvantage
   * [Racial templates](../templates/races/) supersede these restrictions
 * All regular (non-cinematic) skills are available if appropriate for the character's TL
+
+### "Everyman" Skills
+
+While not required, being competent in "everyman" skills makes characters more believable adventurers (and helps keep the story flowing).  With high ability scores, defaults could be enough.  But it's generally recommended that every character have some basic training (i.e. spend at least 1 point) in each of the following areas:
+
+* Carousing, Diplomacy, Fast-Talk, _or_ Interrogation
+* Climbing, Hiking, _and_ Stealth
+* Driving _or_ Riding
+* First Aid
+* Gesture
+* Observation, Scrounging, _or_ Search
+* Savoir-Faire or Streetwise
+* Axe/Mace, Broadsword, Knife, Shortsword, _or_ Staff
+* Bow, Crossbow, _or_ Guns
+* Boxing, Brawling, _or_ Karate
+* Forced Entry
+* Holdout
+* Judo, Sumo Wrestling, _or_ Wrestling
+* Throwing
+
+### Party Composition
+
+The party (4 &ndash; 6 characters) should have at least:
+
+* Two characters that are well-trained in combat
+* One character with solid medical ability
+* One character that's comfortable in the outdoors
+* One character who's skilled at getting in and out of places
+* One character with access to "hidden" knowledge
+
+Additionally, as it is outlawed in Tarrsia, no more than one character may be built with magic as his central theme.  With permission (see above), other characters could have trace levels of magic.
