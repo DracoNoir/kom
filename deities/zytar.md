@@ -7,13 +7,12 @@ title: Zytar
 Aspect | Details
 --- | ---
 Echelon | Lesser Deity
-Epithet | Fire
-Intermediate Deity
-Symbol | An eight-pointed star with flaming points
+Epithet | Master of Metal
+Symbol | A golden coin
 Depiction | A male dragon made from metals of all kinds
-Portfolio | Fire, Agility, Light, The South, Heat, Swiftness, Sun, Moon, Stars, Journeys, Freedom
-Worshippers | Pyromaniacs, Smiths, Cooks, Astronomers, Drifters, Nomads
-Colleges | Fire, Technological
+Portfolio | Metal, The East, Wealth
+Worshippers | Miners, Smiths, Warriors
+Colleges | Earth
 Weapons | Javelin
 Season | Kydeemus (Autumn)
 

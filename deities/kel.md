@@ -7,7 +7,7 @@ title: Kel
 Aspect | Details
 --- | ---
 Echelon | Greater Deity
-Epithet | Lawgiver, Peacemaker
+Epithets | Lawgiver, Peacemaker
 Symbol | A scale
 Depiction | A male dragon with platinum scales
 Portfolio | Law, Justice, Retribution, Wisdom, Honesty, Chivalry, Honor, Balance, Order, Cities, Discipline

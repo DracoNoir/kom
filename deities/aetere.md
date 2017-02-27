@@ -7,7 +7,7 @@ title: Aetere
 Aspect | Details
 --- | ---
 Echelon | Greater Deity
-Epithet | Life, The Bright One
+Epithets | Life, The Bright One
 Symbol | A white sword
 Depiction | A great male dragon, with bright pearlescent scales and a slightly distorted left side
 Portfolio | Life, Birth, Conquest, Disease, Healing, Conflict, Dueling, Pain, Strife, Twins, Rebirth

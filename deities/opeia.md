@@ -6,11 +6,11 @@ title: Opeia
 
 Aspect | Details
 --- | ---
-Echelon | Greater Deity
-Epithet | Water
+Echelon | Intermediate Deity
+Epithet | Lady Water
 Symbol | A cup
 Depiction | A semi-transparent, fluidic female dragon, blue and green in color
-Portfolio | Water, Emotion, Storms, The West, Seas, Rivers, Love & Hate, Mirth, Passion, Rage, Weather
+Portfolio | Water, Emotion, Storms, The South, Seas, Lakes, Rivers, Love & Hate, Mirth, Passion, Rage, Weather
 Worshippers | Sailors, Fishermen
 Colleges | Water, Weather
 Weapons | Trident

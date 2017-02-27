@@ -6,8 +6,8 @@ title: T'ere
 
 Aspect | Details
 --- | ---
-Echelon | Greater
-Epithet | The Soulforger, The Dead One
+Echelon | None
+Epithets | The Soulforger, The Dead One
 Symbol | A sword, black on the left and white on the right
 Depiction | A great male dragon, with pearlescent scales and either a sad or maniacal expression
 Portfolio | None

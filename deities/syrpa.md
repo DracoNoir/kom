@@ -6,8 +6,8 @@ title: Syr Pa
 
 Aspect | Details
 --- | ---
-Echelon | Lesser Deity
-Epithet | Destiny, Fate
+Echelon | Minor Deity
+Epithets | Destiny, Fate
 Symbol | A black sphere
 Depiction | A small dragon, with black scales
 Portfolio | Future, Forsight, Prophecy, Arcana, Sight, Intuition, Planning, Knowledge

@@ -7,7 +7,7 @@ title: Nekere
 Aspect | Details
 --- | ---
 Echelon | Greater Deity
-Epithet | Death, The Dark Twin
+Epithets | Death, The Dark Twin
 Symbol | A black sword
 Depiction | A great female dragon, with dark pearlescent scales and a slightly distorted right side
 Portfolio | Life, Death, Undead, Rebirth, Dueling, Conflict, Healing, Twins, Strife, Pain, Mercy

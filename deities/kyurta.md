@@ -12,7 +12,7 @@ Symbol | A leaf
 Depiction | A female green dragon with leaf-like scales
 Portfolio | Plants, Harvest, Nature, Motherhood, Trees, Agriculture, Marriage, Wives, Medicine, Wilderness, Forests
 Worshippers | Druids, Rangers, Farmers
-Colleges | Healing, Plant
+Colleges | Food, Plant
 Weapons | Whip
 Month | Kytara (9)
 

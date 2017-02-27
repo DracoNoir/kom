@@ -21,13 +21,13 @@ The following are the deities of Kom:
 
 [Athea](athea)
 
-[Lutan](lutan)
-
-[Zytar](zytar)
-
 [Opeia](opeia)
 
 [Khaotel](khaotel)
+
+[Lutan](lutan)
+
+[Zytar](zytar)
 
 [T'ere](tere)
 

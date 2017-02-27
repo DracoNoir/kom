@@ -6,13 +6,13 @@ title: Athea
 
 Aspect | Details
 --- | ---
-Echelon | Greater Deity
-Epithet | Earth
+Echelon | Intermediate Deity
+Epithet | Father Earth
 Symbol | A rock
 Depiction | A large, muscular male dragon made of rock
-Portfolio | Earth, Imagination, Commerce, The North, Gems, Metals, Mountains, Strength, Wealth, Roads, Home
-Worshippers | Miners, Masons, Jewelers, Dreamers, Merchants, Farmers
-Colleges | Earth, Technological
+Portfolio | Earth, Rock, The North, Mountains, Strength, Roads, Home
+Worshippers | Miners, Masons, Farmers
+Colleges | Earth, Making & Breaking
 Weapons | Club, Greatclub
 Season | Saemus (Summer)
 

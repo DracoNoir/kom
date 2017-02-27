@@ -7,7 +7,7 @@ title: Dagahr
 Aspect | Details
 --- | ---
 Echelon | Greater Deity
-Epithet | War
+Epithets | War, The Destroyer
 Symbol | A red tear
 Depiction | A female dragon with crimson scales
 Portfolio | War, Chaos, Destruction, Discord, Malice, Slaughter, Suffering, Anarchy, Tyranny, Disasters, Madness

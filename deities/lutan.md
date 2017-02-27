@@ -7,13 +7,13 @@ title: Lutan
 Aspect | Details
 --- | ---
 Echelon | Lesser Deity
-Epithet | Air
+Epithet | Master of Gems
 Intermediate Deity
-Symbol | A feather
+Symbol | A diamond arrowhead
 Depiction | A sleek female dragon made from crystals of all colors
-Portfolio | Air, Intellect, Communication, The East, Sky, Wind, Contemplation, Archery, Storms, Weather, Lies
-Worshippers | Sailors, Millers
-Colleges | Air, Weather
+Portfolio | Gems, The West, Wealth
+Worshippers | Miners, Jewelers
+Colleges | Earth
 Weapons | Bows
 Season | Cynermus (Spring)
 

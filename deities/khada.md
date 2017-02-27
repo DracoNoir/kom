@@ -12,7 +12,7 @@ Symbol | A claw
 Depiction | A male dragon with brown, fur-like scales
 Portfolio | Animals, Hunting, Nature, Loyalty, Beasts, Agriculture, Marriage, Husbands, Territory, Wilderness, Fertility
 Worshippers | Hunters, Farmers
-Colleges | Animal, Healing
+Colleges | Animal, Food
 Weapons | Spear
 Month | Kadara (3)
 

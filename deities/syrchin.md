@@ -6,7 +6,7 @@ title: Syr Chin
 
 Aspect | Details
 --- | ---
-Echelon | Lesser Deity
+Echelon | Minor Deity
 Epithet | Legacy
 Symbol | A quill
 Depiction | A small dragon with white scales

@@ -6,7 +6,7 @@ title: Syr Tyn
 
 Aspect | Details
 --- | ---
-Echelon | Lesser Deity
+Echelon | Minor Deity
 Epithet | Truth
 Symbol | A ring
 Depiction | A small dragon, with a kaleidoscope of scales

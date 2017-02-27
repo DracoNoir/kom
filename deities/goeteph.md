@@ -6,13 +6,13 @@ title: Goeteph
 
 Aspect | Details
 --- | ---
-Epithet | Allfather, Guardian of the Eternal Fire
-Echelon | Greater Deity
+Epithets | Allfather, Guardian of the Eternal Fire
+Echelon | Supreme Deity
 Symbol | A hammer
 Depiction | A mighty male dragon, large and muscular, with emerald green scales
 Portfolio | Creation, Fatherhood, Strength, Courage, Nobility, Children, Athletics, Compassion, Family, Fitness, Grief
 Worshippers | Fathers, Athletes, Warriors, Nobles
-Colleges | Body Control, Food, Healing, Making & Breaking, Meta, Protection & Warning
+Colleges | Body Control, Enchantment, Fire, Healing, Making & Breaking, Protection & Warning
 Weapons | Greataxe, Warhammer
 Month | Gotara (7)
 

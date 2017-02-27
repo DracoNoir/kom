@@ -6,13 +6,13 @@ title: K'Bal
 
 Aspect | Details
 --- | ---
-Echelon | Greater Deity
-Epithet | The All-Seeing, The Deceiver
+Echelon | Supreme Deity
+Epithets | The All-Seeing, The Deceiver
 Symbol | An eye
 Depiction | A long, sleek female dragon, with cobalt blue scales
 Portfolio | Knowledge, Fate, Deception, Strategy, Arcana, Intrigue, Sorrow, Secrets, Civilization, Wit, Sight
 Worshippers | Sages, Advisors, Philosophers, Scholars, Conspirators, Mages
-Colleges | Communication & Empathy, Knowledge, Meta, Mind Control, Sound, Technological
+Colleges | Communication & Empathy, Illusion & Creation, Knowledge, Meta, Mind Control, Technological
 Weapons | Sai
 Month | Kabara (2)
 
