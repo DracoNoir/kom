@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: construction
 breadcrumb: Delusian Province
 title: Delusian Province
 ---

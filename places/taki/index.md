@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: construction
 breadcrumb: Taki
 title: Taki
 ---
