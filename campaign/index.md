@@ -57,7 +57,11 @@ The following general rules apply to building your characters:
   * [Racial templates](../templates/races/) supersede these restrictions
 * All regular (non-cinematic) skills are available if appropriate for the character's TL
 
-### "Everyman" Skills
+### Skills
+
+When allocating points to skills, keep in mind that the skills of an average person, who does average things in their average life, are usually between 8 and 13 (8 or 9 for ones learned during their youth but rarely used and 12 or 13 for ones used daily doing their job).  By contrast, the skills of an expert (or, at least, the ones they're experts in) are between 14 and 19, with a 16 being enough to virtually guarantee success under typical circumstances (since a roll of 17 or 18 is an automatic failure).  Adventurers can't be experts in everything, but they're likely to be experts in some things, their "signature" skills.  For everything else, a few points here and there will help round them out and they can fall back on defaults for the rest (if allowed for the skills in question).
+
+#### "Everyman" Skills
 
 While not required, being competent in "everyman" skills makes characters more believable adventurers (and helps keep the story flowing).  With high ability scores, defaults could be enough.  But it's generally recommended that every character have some basic training (i.e. spend at least 1 point) in each of the following areas:
 
@@ -76,7 +80,7 @@ While not required, being competent in "everyman" skills makes characters more b
 * Judo, Sumo Wrestling, _or_ Wrestling
 * Throwing
 
-### Party Composition
+### Niches
 
 The party (4 &ndash; 6 characters) should have at least:
 
@@ -86,4 +90,4 @@ The party (4 &ndash; 6 characters) should have at least:
 * One character who's skilled at getting in and out of places
 * One character with access to "hidden" knowledge
 
-Additionally, as it is outlawed in Tarrsia, no more than one character may be built with magic as his central theme.  With permission (see above), other characters could have trace levels of magic.
+Additionally, as it is outlawed in [Tarrsia](../places/tarrsia/), no more than one character may be built with magic as his central theme.  With permission (see above), other characters could have trace levels of magic.
