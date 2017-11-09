@@ -4,7 +4,7 @@ breadcrumb: Taki
 title: Taki
 ---
 
-Taki is a nation-state within the Tarrsian Empire.  It comprises approximately 8000 square miles of mostly mountainous terrain in the north western quadrant of the Empire.  It lies south of [Mount Venseenai](../venseenai), west of the [T'uanjhaali Wasteland](../wasteland/), and north of [Tarrsia](../tarrsia/).  To its west is a large hybrean forest.
+Taki is a nation-state within the Tarrsian Empire.  It comprises approximately 80000 square miles of mostly mountainous terrain in the north western quadrant of the Empire.  It lies south of [Mount Venseenai](../venseenai), west of the [T'uanjhaali Wasteland](../wasteland/), and north of [Tarrsia](../tarrsia/).  To its west is a large hybrean forest.
 
 Taki's biggest export is wood grown in its rich mountain soil, primarily in the form of lumber and a unique kind of enriched charcoal.  It also is called home by some of the Empire's preeminant carpenters and woodworkers.  Additionally, Taki features the most accessible trade route between [Tarrsia](../tarrsia/) and the [Wasteland](../wasteland), on which it imposes a small levy.
 
