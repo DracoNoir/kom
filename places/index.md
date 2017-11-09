@@ -17,6 +17,6 @@ The world of Kom has many locations, from its largest nations to the smallest vi
 
 [Tarrsia](tarrsia)
 
-[Mount Venssnai](venseenai)
+[Mount Venseenai](venseenai)
 
 [T'uanjhaali Wasteland](wasteland)
